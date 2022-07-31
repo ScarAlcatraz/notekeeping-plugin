@@ -1,0 +1,10 @@
+.alert {
+  display: none;
+}
+
+textarea {
+  display: block;
+  margin-left: 10px;
+  min-width: 500px;
+  resize: vertical;
+}
